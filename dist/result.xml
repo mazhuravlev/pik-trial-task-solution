@@ -1,0 +1,528 @@
+<?xml version="1.0"?>
+<families>
+  <family>
+    <name>M_Parking Space</name>
+    <types>
+      <type>
+        <name>5480 x 2740mm - 90 deg</name>
+        <category>Parking</category>
+      </type>
+    </types>
+  </family>
+  <family>
+    <name>M_RPC Tree - Deciduous</name>
+    <types>
+      <type>
+        <name>Scarlet Oak - 12.5 Meters</name>
+        <category>Planting</category>
+      </type>
+      <type>
+        <name>Honey Locust - 7.6 Meters</name>
+        <category>Planting</category>
+      </type>
+      <type>
+        <name>Red Maple - 9 Meters</name>
+        <category>Planting</category>
+      </type>
+      <type>
+        <name>Golden Chain - 5.5 Meters</name>
+        <category>Planting</category>
+      </type>
+      <type>
+        <name>Japanese Cherry - 4.5 Meters</name>
+        <category>Planting</category>
+      </type>
+    </types>
+  </family>
+  <family>
+    <name>M_RPC Shrub</name>
+    <types>
+      <type>
+        <name>Barberry - 1.0 Meters</name>
+        <category>Planting</category>
+      </type>
+      <type>
+        <name>Golden Flame Spirea - 0.8 Meters</name>
+        <category>Planting</category>
+      </type>
+    </types>
+  </family>
+  <family>
+    <name>Main Building</name>
+    <types>
+      <type>
+        <name>Main Building</name>
+        <category>Mass</category>
+      </type>
+    </types>
+  </family>
+  <family>
+    <name>Pavillion</name>
+    <types>
+      <type>
+        <name>Pavillion</name>
+        <category>Mass</category>
+      </type>
+    </types>
+  </family>
+  <family>
+    <name>System Panel</name>
+    <types>
+      <type>
+        <name>Glazed</name>
+        <category>Curtain Panels</category>
+      </type>
+      <type>
+        <name>Solid</name>
+        <category>Curtain Panels</category>
+      </type>
+    </types>
+  </family>
+  <family>
+    <name>M_Concrete-Round-Column</name>
+    <types>
+      <type>
+        <name>300mm</name>
+        <category>Structural Columns</category>
+      </type>
+      <type>
+        <name>450mm</name>
+        <category>Structural Columns</category>
+      </type>
+    </types>
+  </family>
+  <family>
+    <name>M_Fixed</name>
+    <types>
+      <type>
+        <name>0915 x 1220mm</name>
+        <category>Windows</category>
+      </type>
+    </types>
+  </family>
+  <family>
+    <name>M_Single-Flush-Dbl Acting</name>
+    <types>
+      <type>
+        <name>0915 x 2134mm</name>
+        <category>Doors</category>
+      </type>
+    </types>
+  </family>
+  <family>
+    <name>M_Single-Flush</name>
+    <types>
+      <type>
+        <name>0915 x 2134mm</name>
+        <category>Doors</category>
+      </type>
+      <type>
+        <name>0915 x 2134mm 20 Minute Rated</name>
+        <category>Doors</category>
+      </type>
+    </types>
+  </family>
+  <family>
+    <name>M_Double-Flush</name>
+    <types>
+      <type>
+        <name>1830 x 2134mm</name>
+        <category>Doors</category>
+      </type>
+      <type>
+        <name>1730 x 2134mm</name>
+        <category>Doors</category>
+      </type>
+      <type>
+        <name>1730 x 2134mm 20 Minute Rated</name>
+        <category>Doors</category>
+      </type>
+    </types>
+  </family>
+  <family>
+    <name>M_Curtain Wall Sgl Glass</name>
+    <types>
+      <type>
+        <name>M_Curtain Wall Sgl Glass</name>
+        <category>Doors</category>
+      </type>
+    </types>
+  </family>
+  <family>
+    <name>Rectangular Mullion</name>
+    <types>
+      <type>
+        <name>50 x 150mm</name>
+        <category>Curtain Wall Mullions</category>
+      </type>
+      <type>
+        <name>30mm Square</name>
+        <category>Curtain Wall Mullions</category>
+      </type>
+    </types>
+  </family>
+  <family>
+    <name>L Corner Mullion</name>
+    <types>
+      <type>
+        <name>L Mullion 1</name>
+        <category>Curtain Wall Mullions</category>
+      </type>
+    </types>
+  </family>
+  <family>
+    <name>M_Single-Flush Vision</name>
+    <types>
+      <type>
+        <name>0915 x 2134mm</name>
+        <category>Doors</category>
+      </type>
+    </types>
+  </family>
+  <family>
+    <name>M_Double-Glass 1</name>
+    <types>
+      <type>
+        <name>1830 x 2134mm</name>
+        <category>Doors</category>
+      </type>
+    </types>
+  </family>
+  <family>
+    <name>M_Single-Glass 1</name>
+    <types>
+      <type>
+        <name>0915 x 2134mm</name>
+        <category>Doors</category>
+      </type>
+    </types>
+  </family>
+  <family>
+    <name>M_Baluster - Round</name>
+    <types>
+      <type>
+        <name>25mm</name>
+        <category>Balusters</category>
+      </type>
+    </types>
+  </family>
+  <family>
+    <name>Handrail - Round w Extension - Start-Offset</name>
+    <types>
+      <type>
+        <name>1 1/2" Handrail</name>
+        <category>Balusters</category>
+      </type>
+    </types>
+  </family>
+  <family>
+    <name>Handrail - Round w Extension - End</name>
+    <types>
+      <type>
+        <name>1 1/2" Handrail</name>
+        <category>Balusters</category>
+      </type>
+    </types>
+  </family>
+  <family>
+    <name>Handrail - Bracket</name>
+    <types>
+      <type>
+        <name>Handrail - Bracket</name>
+        <category>Balusters</category>
+      </type>
+    </types>
+  </family>
+  <family>
+    <name>Baluster - Round</name>
+    <types>
+      <type>
+        <name>1"</name>
+        <category>Balusters</category>
+      </type>
+    </types>
+  </family>
+  <family>
+    <name>M_Table-Dining Round w Chairs</name>
+    <types>
+      <type>
+        <name>0915mm Diameter</name>
+        <category>Furniture</category>
+      </type>
+    </types>
+  </family>
+  <family>
+    <name>M_Chair-Breuer</name>
+    <types>
+      <type>
+        <name>M_Chair-Breuer</name>
+        <category>Furniture</category>
+      </type>
+    </types>
+  </family>
+  <family>
+    <name>M_Curtain Wall Dbl Glass</name>
+    <types>
+      <type>
+        <name>M_Curtain Wall Dbl Glass</name>
+        <category>Doors</category>
+      </type>
+    </types>
+  </family>
+  <family>
+    <name>SHADE SUPPORT</name>
+    <types>
+      <type>
+        <name>SHADE SUPPORT</name>
+        <category>Generic Models</category>
+      </type>
+    </types>
+  </family>
+  <family>
+    <name>M_W-Wide Flange-Column</name>
+    <types>
+      <type>
+        <name>W250X49.1</name>
+        <category>Structural Columns</category>
+      </type>
+    </types>
+  </family>
+  <family>
+    <name>Curved Beam</name>
+    <types>
+      <type>
+        <name>Curved Beam</name>
+        <category>Structural Framing</category>
+      </type>
+    </types>
+  </family>
+  <family>
+    <name>M_W-Wide Flange</name>
+    <types>
+      <type>
+        <name>W310X28.3</name>
+        <category>Structural Framing</category>
+      </type>
+    </types>
+  </family>
+  <family>
+    <name>M_K-Series Bar Joist-Angle Web</name>
+    <types>
+      <type>
+        <name>8K1</name>
+        <category>Structural Framing</category>
+      </type>
+    </types>
+  </family>
+  <family>
+    <name>A0 metric</name>
+    <types>
+      <type>
+        <name>A0 metric</name>
+        <category>Title Blocks</category>
+      </type>
+    </types>
+  </family>
+  <family>
+    <name>M_Precast-Rectangular Beam</name>
+    <types>
+      <type>
+        <name>300 RB 600</name>
+        <category>Structural Framing</category>
+      </type>
+    </types>
+  </family>
+  <family>
+    <name>M_Break Line</name>
+    <types>
+      <type>
+        <name>M_Break Line</name>
+        <category>Detail Items</category>
+      </type>
+    </types>
+  </family>
+  <family>
+    <name>Reinf Bar Section</name>
+    <types>
+      <type>
+        <name>#_5</name>
+        <category>Detail Items</category>
+      </type>
+    </types>
+  </family>
+  <family>
+    <name>Reinf Bar Bend 3-8</name>
+    <types>
+      <type>
+        <name>#_3</name>
+        <category>Detail Items</category>
+      </type>
+    </types>
+  </family>
+  <family>
+    <name>Reinf Bar Elevation</name>
+    <types>
+      <type>
+        <name>#_3</name>
+        <category>Detail Items</category>
+      </type>
+    </types>
+  </family>
+  <family>
+    <name>M_Precast Slab-Hollow Core-Side</name>
+    <types>
+      <type>
+        <name>1200 x 200mm</name>
+        <category>Detail Items</category>
+      </type>
+    </types>
+  </family>
+  <family>
+    <name>M_CMU-2 Core-Section</name>
+    <types>
+      <type>
+        <name>200x200x400mm</name>
+        <category>Detail Items</category>
+      </type>
+    </types>
+  </family>
+  <family>
+    <name>M_Coping-Section</name>
+    <types>
+      <type>
+        <name>300x100x100mm</name>
+        <category>Detail Items</category>
+      </type>
+    </types>
+  </family>
+  <family>
+    <name>Cant Strip-Wood-Section</name>
+    <types>
+      <type>
+        <name>290mm x 40mm</name>
+        <category>Detail Items</category>
+      </type>
+    </types>
+  </family>
+  <family>
+    <name>M_Tapered Rigid Insulation-Section</name>
+    <types>
+      <type>
+        <name>M_Tapered Rigid Insulation-Section</name>
+        <category>Detail Items</category>
+      </type>
+    </types>
+  </family>
+  <family>
+    <name>M_Rigid Insulation-Section</name>
+    <types>
+      <type>
+        <name>100mm</name>
+        <category>Detail Items</category>
+      </type>
+    </types>
+  </family>
+  <family>
+    <name>Chair-Viper</name>
+    <types>
+      <type>
+        <name>Chair</name>
+        <category>Furniture</category>
+      </type>
+    </types>
+  </family>
+  <family>
+    <name>Couch-Viper</name>
+    <types>
+      <type>
+        <name>Couch</name>
+        <category>Furniture</category>
+      </type>
+    </types>
+  </family>
+  <family>
+    <name>Wastebasket2</name>
+    <types>
+      <type>
+        <name>Wastebasket2</name>
+        <category>Furniture</category>
+      </type>
+    </types>
+  </family>
+  <family>
+    <name>Table-Night Stand</name>
+    <types>
+      <type>
+        <name>24" x 24" x 30"</name>
+        <category>Furniture</category>
+      </type>
+    </types>
+  </family>
+  <family>
+    <name>Potted Plant</name>
+    <types>
+      <type>
+        <name>Potted Plant</name>
+        <category>Generic Models</category>
+      </type>
+    </types>
+  </family>
+  <family>
+    <name>Table Lamp 4</name>
+    <types>
+      <type>
+        <name>60 watt Incandescent</name>
+        <category>Lighting Fixtures</category>
+      </type>
+    </types>
+  </family>
+  <family>
+    <name>Pendant Light - Linear - 1 Lamp</name>
+    <types>
+      <type>
+        <name>2440mm - 277V</name>
+        <category>Lighting Fixtures</category>
+      </type>
+    </types>
+  </family>
+  <family>
+    <name>Sconce 4</name>
+    <types>
+      <type>
+        <name>40 watt Halogen</name>
+        <category>Lighting Fixtures</category>
+      </type>
+    </types>
+  </family>
+  <family>
+    <name>Window Shade</name>
+    <types>
+      <type>
+        <name>Window Shade</name>
+        <category>Furniture</category>
+      </type>
+    </types>
+  </family>
+  <family>
+    <name>M_RPC Male</name>
+    <types>
+      <type>
+        <name>Alex</name>
+        <category>Entourage</category>
+      </type>
+      <type>
+        <name>Jay</name>
+        <category>Entourage</category>
+      </type>
+    </types>
+  </family>
+  <family>
+    <name>M_RPC Female</name>
+    <types>
+      <type>
+        <name>Florence</name>
+        <category>Entourage</category>
+      </type>
+    </types>
+  </family>
+</families>

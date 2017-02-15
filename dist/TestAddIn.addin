@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Command">    
+    <Assembly>TestAddIn.dll</Assembly>
+    <ClientId>40BF6354-E39A-487F-9903-848F4200D65F</ClientId>
+    <FullClassName>TestAddIn.TestAddIn</FullClassName>
+    <Text>Export Families To XML</Text>
+    <VendorId>TestAddIn</VendorId>
+    <VisibilityMode>AlwaysVisible</VisibilityMode>
+  </AddIn>
+</RevitAddIns>
